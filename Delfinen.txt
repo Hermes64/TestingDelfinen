@@ -6,4 +6,11 @@ Intro til projektet
 
 Dette er et andet test til commit
 
+
+Testing adding lines
+Again..
+
+
+
+Thank you!
 After merging!
