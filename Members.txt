@@ -1,0 +1,5 @@
+This a file for the club's members:
+
+-ID number
+name
+age
